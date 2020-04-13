@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+imdb/imdb/__pycache__/
+imdb/movie/__pycache__/
+imdb/movie/migrations/__pycache__/
+imdb/static/
