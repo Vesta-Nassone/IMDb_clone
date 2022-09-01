@@ -12,7 +12,7 @@ configobj==5.0.6
 constantly==15.1.0
 cryptography==2.8
 dbus-python==1.2.16
-deluge==2.0.3
+deluge==2.1.0
 distlib==0.3.1
 distro==1.4.0
 Django==2.2.12
